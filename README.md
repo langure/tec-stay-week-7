@@ -25,11 +25,14 @@ Machine Translation: Word embeddings can be used to translate from one language 
 
 For instance, in sentiment analysis, where the goal is to determine the sentiment of a text passage, word embeddings can help capture the meaning of the words and their context, which can significantly improve the model's performance.
 
+
 # Readings
 
 [Word Embeddings: A Survey](https://arxiv.org/pdf/1901.09069.pdf)
 
+
 [A Survey of Word Embeddings Evaluation Methods](https://arxiv.org/pdf/1801.09536.pdf)
 
-[https://aclanthology.org/D15-1036.pdf](https://aclanthology.org/D15-1036.pdf)
+
+[Evaluation methods for unsupervised word embeddings](https://aclanthology.org/D15-1036.pdf)
 
